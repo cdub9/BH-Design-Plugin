@@ -8,16 +8,16 @@ Stable tag: 1.3.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Plugin for Bluehost, Hostmonster and Justhost Design customers to add additional resources and tools to their website.
+Plugin for Bluehost, Hostmonster and JustHost Design customers to add additional resources and tools to their website.
 
 == Description ==
 
-This plugin allows clients of the Bluehost, Hostmonster and Justhost design customers to have the resources and tools needed for building and building a successful website. 
+This plugin provides clients of the Bluehost, Hostmonster and Justhost design service with additional tools and resources to help them create and manage a successful website. 
 
 **Includes**
 
 * **Social Media Widget** - Lets you add a link to your social media profiles in any widget area.
-* **YouTube Tutorial Videos** - Access to 22 YouTube videos used to help you manage and maintain your WordPress Website
+* **YouTube Tutorial Videos** - Access to 22 YouTube videos used to help you manage and maintain your WordPress Website.
 
 == Installation ==
 
@@ -34,11 +34,11 @@ Yes you can. While many of the tools would be for our professional design team, 
 
 = If I am a customer, can I remove this plugin? =
 
-Short answer, yes, but you should speak to your designer before doing so. The site may depend on its functionality for your website to work.
+Short answer, yes, but you should speak to your designer before doing so. Your website may depend on the functionality of this plugin, and therefore some features may break if you remove the plugin.
 
 = What happens if I removed the plugin already and it broke my site. =
 
-You can just install the plugin again and all the settings should remain in tact.
+You can just install the plugin again and all the settings should remain intact.
 
 == Changelog ==
 
